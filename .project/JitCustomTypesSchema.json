@@ -1,0 +1,74 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "z5rJwfKrT42CywjLm454dSZut6Jg8oy2jwwml7CPjw",
+        "bundleName": "CustomerPortalQueue_b61d7",
+        "entitiesBundle": {
+          "Types": {
+            "CustomerPortalQueue_b61d7": {
+              "name": "CustomerPortalQueue_b61d7",
+              "properties": [
+                {
+                  "name": "DocPath",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "DocType",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "ClassificationType",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "ExtractionType",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "isHITL",
+                  "type": {
+                    "ClrType": "System.Boolean, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "CustomerEmail",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "CustomerName",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                }
+              ],
+              "baseType": {
+                "ClrType": "System.Object, System.Private.CoreLib"
+              }
+            }
+          },
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.System.Activities.ViewModels.SWEntities.CustomerPortalQueue_b61d7",
+        "hash": "ejVySndmS3JUNDJDeXdqTG00NTRkU1p1dDZKZzhveTJqd3dtbDdDUGp3",
+        "assemblyName": "CustomerPortalQueue_.iw0IirakRD1cpaWS240ehh1"
+      }
+    }
+  ]
+}
